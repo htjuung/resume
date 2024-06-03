@@ -1,8 +1,8 @@
-# Tanya's Resume Website
+## Tanya's Resume Website
 
 This project is a personal resume website created using Bootstrap. It showcases my professional experience, skills, education, and interests.
 
-# Live Site
+## Live Site
 
 You can visit the live site here: [Tanya's Resume](https://htjuung.github.io/resume/)
 
